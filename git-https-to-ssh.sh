@@ -1,3 +1,4 @@
+#!/bin/bash
 # Convert git repo from using HTTPS to ssh
 
 REMOTES=$(git remote -v)
