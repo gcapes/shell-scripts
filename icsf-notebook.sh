@@ -1,3 +1,5 @@
+#!/bin/bash
+
 SOCKET=$TEMPDIR/$USER
 PORT=8888
 PORT1=7797
